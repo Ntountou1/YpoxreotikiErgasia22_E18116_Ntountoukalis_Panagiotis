@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "62c47af6288fbcf6441f98e5"
+  },
+  "email": "test@test.com",
+  "fullname": "Test Test",
+  "password": "pass",
+  "username": "test"
+},{
+  "_id": {
+    "$oid": "62c47bc764e48b3e3432e0ff"
+  },
+  "email": "panosntountou7@hotmail.com",
+  "username": "Ntountou",
+  "fullname": "Panagiotis Ntountoukalis",
+  "password": "pass",
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "62c47d9a64e48b3e3432e103"
+  },
+  "email": "andrewhill@yahoo.com",
+  "username": "Andrew123",
+  "fullname": "Andrew Hill",
+  "password": "Andrew123",
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "62c47dbc64e48b3e3432e104"
+  },
+  "email": "juliaalva@yahoo.com",
+  "username": "Julia1298",
+  "fullname": "Julia Alvarez",
+  "password": "Ilove121212",
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "62c47e4dc3cbe9733c146406"
+  },
+  "email": "danieljames@gmail.br",
+  "username": "DanielJam",
+  "fullname": "Daniel James",
+  "password": "GoBlues",
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "62c48058b9eb971520876bb2"
+  },
+  "email": "nealcallaghan@yahoo.com",
+  "username": "NealCall",
+  "fullname": "neal Callaghan",
+  "password": "NealCall123",
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "62c4c59db47dea8ba6f480a9"
+  },
+  "email": "admin@admin.com",
+  "fullname": "Admin",
+  "password": "admin",
+  "username": "Admin",
+  "role": "admin"
+}]

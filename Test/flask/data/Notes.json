@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "62c47c4664e48b3e3432e100"
+  },
+  "title": "Πληροφοριακά Συστήματα",
+  "text": "Εδώ μπορείτε να βρείτε σημειώσεις για το μάθημα των Πληροφοριακών Συστημάτων",
+  "keywords": [
+    "Digital Systems",
+    "Information System",
+    "Python",
+    "Flask",
+    "Pymongo",
+    "Docker"
+  ],
+  "date_of_text": {
+    "$date": {
+      "$numberLong": "1657054838829"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c47cd964e48b3e3432e101"
+  },
+  "title": "Καθηγητές Ψηφιακών Συστημάτων",
+  "text": "Παρακάτω παρουσιάζονται οι καθηγητές του τμήματός μας",
+  "keywords": [
+    "Digital Systems",
+    "Unipi",
+    "Teachers",
+    "Computer Science",
+    "Telecoms",
+    "Web Design"
+  ],
+  "date_of_text": {
+    "$date": {
+      "$numberLong": "1657054985181"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c47d4564e48b3e3432e102"
+  },
+  "title": "Random colors",
+  "text": "Here are my favorite colors",
+  "keywords": [
+    "Red",
+    "Blue",
+    "White",
+    "Green"
+  ],
+  "date_of_text": {
+    "$date": {
+      "$numberLong": "1657055093148"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c5bdc8eb24fd76439ff128"
+  },
+  "title": "Updated testing note",
+  "text": "Here is a dummy note but updated",
+  "keywords": [
+    "Test",
+    "Dummy",
+    "Hello",
+    "Updated"
+  ],
+  "date_of_text": {
+    "$date": {
+      "$numberLong": "1657137467415"
+    }
+  }
+}]
